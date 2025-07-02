@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "dotenv": "^17.0.1"
+  }
+}
